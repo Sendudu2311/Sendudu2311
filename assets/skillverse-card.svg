@@ -1,0 +1,35 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SkillVerse featured project card</title>
+  <desc id="desc">Persona 3 Reload inspired project card for SkillVerse.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="330">
+      <stop offset="0" stop-color="#00113F"/>
+      <stop offset="0.55" stop-color="#015FCC"/>
+      <stop offset="1" stop-color="#19D9FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="132%">
+      <feDropShadow dx="9" dy="12" stdDeviation="0" flood-color="#00113F" flood-opacity="0.82"/>
+      <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#00113F" flood-opacity="0.32"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="330" fill="url(#bg)"/>
+  <rect width="1000" height="330" fill="url(#grid)"/>
+  <path d="M44 28H956" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M44 32H956" stroke="#FF2A8A" stroke-width="2"/>
+  <g filter="url(#shadow)">
+    <path d="M72 82L878 36L828 180L22 226L72 82Z" fill="#FFFFFF"/>
+    <path d="M97 105L823 64L793 154L67 195L97 105Z" fill="#001A55"/>
+    <path d="M175 222L892 183L858 273L141 312L175 222Z" fill="#FFFFFF"/>
+    <path d="M198 241L844 206L826 253L180 288L198 241Z" fill="#015FCC"/>
+  </g>
+  <text x="117" y="147" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="56" font-style="italic">SKILLVERSE</text>
+  <text x="120" y="177" fill="#BDEFFF" font-family="Consolas, monospace" font-size="18">Learning Universe Platform // shared team project</text>
+  <text x="217" y="272" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="25" font-style="italic">PRODUCT UI</text>
+  <text x="385" y="272" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="25" font-style="italic">API FLOW</text>
+  <text x="548" y="272" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="25" font-style="italic">E2E MINDSET</text>
+  <path d="M780 68L943 68L912 125L749 125L780 68Z" fill="#001A55"/>
+  <text x="802" y="110" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="38" font-style="italic">MISSION</text>
+</svg>

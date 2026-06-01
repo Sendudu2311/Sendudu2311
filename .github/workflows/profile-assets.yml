@@ -1,0 +1,21 @@
+name: Generate profile assets
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Meowl contribution route
+        run: node scripts/generate-meowl-contribution.js
+      - name: Commit generated assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update generated profile assets"

@@ -1,0 +1,16 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Connect command bar</title>
+  <desc id="desc">Persona 3 Reload inspired connect command bar.</desc>
+  <rect width="1000" height="120" fill="#001B5E"/>
+  <path d="M44 22H956" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M44 26H956" stroke="#FF2A8A" stroke-width="2"/>
+  <path d="M80 52L326 52L302 96L56 96L80 52Z" fill="#FFFFFF"/>
+  <path d="M96 61L288 61L275 86L83 86L96 61Z" fill="#001A55"/>
+  <text x="124" y="81" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="18" font-style="italic">GITHUB</text>
+  <path d="M382 52L628 52L604 96L358 96L382 52Z" fill="#FFFFFF"/>
+  <path d="M398 61L590 61L577 86L385 86L398 61Z" fill="#001A55"/>
+  <text x="430" y="81" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="18" font-style="italic">EMAIL</text>
+  <path d="M684 52L930 52L906 96L660 96L684 52Z" fill="#FFFFFF"/>
+  <path d="M700 61L892 61L879 86L687 86L700 61Z" fill="#001A55"/>
+  <text x="724" y="81" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="18" font-style="italic">FACEBOOK</text>
+</svg>

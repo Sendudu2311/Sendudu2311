@@ -1,0 +1,61 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sendudu2311 Persona 3 Reload inspired banner</title>
+  <desc id="desc">A readable Persona 3 Reload inspired GitHub profile banner with angled blue command panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00113F"/>
+      <stop offset="0.5" stop-color="#015FCC"/>
+      <stop offset="1" stop-color="#20D9FF"/>
+    </linearGradient>
+    <linearGradient id="deep" x1="80" y1="80" x2="1040" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00154A"/>
+      <stop offset="0.58" stop-color="#002A82"/>
+      <stop offset="1" stop-color="#015FCC"/>
+    </linearGradient>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="9" dy="13" stdDeviation="0" flood-color="#00113F" flood-opacity="0.82"/>
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#00113F" flood-opacity="0.38"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <path d="M-60 76C116 28 238 43 401 90C552 134 696 104 840 58C984 12 1100 11 1260 70V0H-60V76Z" fill="#FFFFFF" fill-opacity="0.2"/>
+  <path d="M-60 317C127 371 292 350 456 289C638 222 780 259 920 310C1054 359 1134 348 1260 279V420H-60V317Z" fill="#00113F" fill-opacity="0.34"/>
+
+  <g filter="url(#shadow)">
+    <path d="M101 88L784 41L755 98L72 145L101 88Z" fill="#FFFFFF"/>
+    <path d="M116 98L748 55L731 88L99 131L116 98Z" fill="url(#deep)"/>
+
+    <path d="M104 161L943 103L897 187L58 246L104 161Z" fill="#FFFFFF"/>
+    <path d="M121 172L906 118L879 169L93 224L121 172Z" fill="url(#deep)"/>
+
+    <path d="M211 277L918 228L884 295L176 344L211 277Z" fill="#FFFFFF"/>
+    <path d="M226 288L880 243L862 276L207 321L226 288Z" fill="#015FCC"/>
+  </g>
+
+  <g opacity="0.96">
+    <path d="M834 19L1170 19L1127 94L791 94L834 19Z" fill="#001A55"/>
+    <text x="865" y="74" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="58" font-style="italic">01</text>
+    <text x="975" y="74" fill="#19D9FF" font-family="Arial Black, Impact, sans-serif" font-size="25" font-style="italic">COMMAND</text>
+    <circle cx="1084" cy="37" r="6" fill="#FFFFFF"/>
+    <circle cx="1108" cy="37" r="6" fill="#19D9FF"/>
+    <circle cx="1132" cy="37" r="6" fill="#FFFFFF"/>
+  </g>
+
+  <path d="M1010 166L1152 146L1111 225L969 245L1010 166Z" fill="#FF2A8A"/>
+  <path d="M993 171L1131 152L1092 227L952 247L993 171Z" fill="#FFFFFF"/>
+  <path d="M1026 185L1078 207L1023 231L1042 209L1026 185Z" fill="#001A55"/>
+
+  <text x="127" y="126" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="31" font-style="italic" letter-spacing="1" transform="rotate(-4 127 126)">FULL-STACK DEVELOPER</text>
+  <text x="121" y="217" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="57" font-style="italic" transform="rotate(-4 121 217)">SENDUDU2311</text>
+  <text x="241" y="314" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="24" font-style="italic" letter-spacing="1" transform="rotate(-4 241 314)">REACT // NODE // PRODUCT UI</text>
+
+  <path d="M39 337H118" stroke="#FFFFFF" stroke-width="7"/>
+  <path d="M63 361H171" stroke="#19D9FF" stroke-width="7"/>
+  <path d="M1040 341H1154" stroke="#FFFFFF" stroke-width="7"/>
+  <path d="M1000 366H1128" stroke="#001A55" stroke-width="7"/>
+</svg>

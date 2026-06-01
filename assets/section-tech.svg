@@ -1,0 +1,14 @@
+<svg width="1000" height="86" viewBox="0 0 1000 86" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">03 Tech Arsenal</title>
+  <desc id="desc">Clean Persona 3 Reload inspired section header for tech arsenal.</desc>
+  <rect width="1000" height="86" fill="#00123D"/>
+  <path d="M0 0H1000V86H0V0Z" fill="#015FCC" fill-opacity="0.26"/>
+  <path d="M0 0C165 30 302 20 458 10C636 -2 800 2 1000 25V86H0V0Z" fill="#19D9FF" fill-opacity="0.12"/>
+  <path d="M44 22H560" stroke="#19D9FF" stroke-width="3"/>
+  <text x="56" y="62" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="35" font-style="italic">TECH ARSENAL</text>
+  <text x="792" y="56" fill="#FFFFFF" font-family="Arial Black, Impact, sans-serif" font-size="40" font-style="italic">03</text>
+  <text x="866" y="54" fill="#19D9FF" font-family="Arial Black, Impact, sans-serif" font-size="20" font-style="italic">SKILLS</text>
+  <circle cx="912" cy="25" r="5" fill="#FFFFFF"/>
+  <circle cx="932" cy="25" r="5" fill="#19D9FF"/>
+  <circle cx="952" cy="25" r="5" fill="#FFFFFF"/>
+</svg>
